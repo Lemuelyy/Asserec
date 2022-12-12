@@ -4,6 +4,10 @@
   "description": "Allen'",
   "version": "0.0.1",
   "publisher": "Cherry",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lemuelyy/Cherry"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
