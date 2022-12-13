@@ -1,2 +1,5 @@
+Cherry
 
-I ONLY NEED THIS ONE
+Purple theme for you and me
+
+By: Lemuelyy
