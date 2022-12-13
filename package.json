@@ -4,6 +4,7 @@
   "description": "a dark purple theme ",
   "version": "0.0.3",
   "publisher": "Cherry",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Lemuelyy/Cherry"
